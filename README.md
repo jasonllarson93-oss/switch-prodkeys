@@ -1,4 +1,4 @@
 # switch-prodkeys
-https://prodkeys.net/ryujinx-prod-keys/
+https://switchkeys.net/prod-keys
 # switch fireware
-https://prodkeys.net/ryujinx-firmware/
+https://switchkeys.net/firmwares
